@@ -1,2 +1,2 @@
 # Quiz-game
-A friendly app interface that provides a 10 question quiz.
+A friendly app interface that provides a new random 10 question quiz every time.
